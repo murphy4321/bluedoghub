@@ -1,0 +1,1 @@
+window.customMenus = { test: true };
