@@ -1,11 +1,9 @@
-console.log('[DEBUG] JS block started! — 01');
+console.log('[DEBUG] JS block started!');
 window.customMenus = [
-console.log('[DEBUG] JS block started! — 02');
   {
     "id": "Northeast",
     "title": "Northeast",
     "data": [
-console.log('[DEBUG] JS block started! — 03');
       {
         "label": "Maine",
         "items": [
@@ -16,7 +14,6 @@ console.log('[DEBUG] JS block started! — 03');
                 "label": "District Info",
                 "url": "https://duckduckgo.com"
               },
-console.log('[DEBUG] JS block started! — 04');
               {
                 "label": "Candidates",
                 "items": [
@@ -36,7 +33,6 @@ console.log('[DEBUG] JS block started! — 04');
               }
             ]
           },
-console.log('[DEBUG] JS block started! — 05');
           {
             "label": "District 2",
             "items": [
@@ -115,7 +111,6 @@ console.log('[DEBUG] JS block started! — 05');
               }
             ]
           },
-console.log('[DEBUG] JS block started! — 06');
           {
             "label": "District 5",
             "items": [
@@ -141,11 +136,10 @@ console.log('[DEBUG] JS block started! — 06');
                 ]
               }
             ]
-console.log('[DEBUG] JS block started! — 07');
           }
         ]
       }
     ]
-console.log('[DEBUG] JS block started! — 08');
   }
 ];
+console.log('[DEBUG] JS block ended!');
