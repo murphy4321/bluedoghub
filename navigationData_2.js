@@ -1,4 +1,4 @@
-windows.customMenus = [
+window.customMenus = [
   {
     "id": "Northeast",
     "title": "Northeast",
