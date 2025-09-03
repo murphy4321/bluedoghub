@@ -1,4 +1,4 @@
-const customMenus = [
+windows.customMenus = [
   {
     "id": "Northeast",
     "title": "Northeast",
