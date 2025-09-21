@@ -1,5 +1,5 @@
 console.log("[DEBUG] JS block started!");
-window.customMenuByDistrict = [
+window.customMenus = [
   {
     "id": "Northeast",
     "title": "Northeast",
