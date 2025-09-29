@@ -13,22 +13,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -39,22 +39,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -65,22 +65,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -91,22 +91,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -117,22 +117,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -148,22 +148,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -174,22 +174,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -200,22 +200,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -226,22 +226,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -252,22 +252,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -283,22 +283,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -309,22 +309,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -335,22 +335,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -361,22 +361,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -387,22 +387,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -418,22 +418,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -444,22 +444,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -470,22 +470,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -496,22 +496,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -522,22 +522,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -553,22 +553,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -579,22 +579,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -605,22 +605,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -631,22 +631,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -657,22 +657,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -688,22 +688,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -714,22 +714,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -740,22 +740,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -766,22 +766,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -792,22 +792,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -823,22 +823,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -849,22 +849,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -875,22 +875,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -901,22 +901,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -927,22 +927,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -963,22 +963,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -989,22 +989,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1015,22 +1015,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1041,22 +1041,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1067,22 +1067,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -1098,22 +1098,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1124,22 +1124,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1150,22 +1150,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1176,22 +1176,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1202,22 +1202,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -1233,22 +1233,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1259,22 +1259,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1285,22 +1285,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1311,22 +1311,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1337,22 +1337,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -1368,22 +1368,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1394,22 +1394,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1420,22 +1420,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1446,22 +1446,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1472,22 +1472,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -1503,22 +1503,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1529,22 +1529,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1555,22 +1555,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1581,22 +1581,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1607,22 +1607,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -1638,22 +1638,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1664,22 +1664,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1690,22 +1690,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1716,22 +1716,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1742,22 +1742,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -1773,22 +1773,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1799,22 +1799,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1825,22 +1825,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1851,22 +1851,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1877,22 +1877,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -1908,22 +1908,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1934,22 +1934,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1960,22 +1960,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -1986,22 +1986,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2012,22 +2012,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -2048,22 +2048,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2074,22 +2074,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2100,22 +2100,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2126,22 +2126,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2152,22 +2152,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -2183,22 +2183,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2209,22 +2209,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2235,22 +2235,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2261,22 +2261,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2287,22 +2287,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -2318,22 +2318,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2344,22 +2344,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2370,22 +2370,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2396,22 +2396,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2422,22 +2422,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -2453,22 +2453,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2479,22 +2479,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2505,22 +2505,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2531,22 +2531,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2557,22 +2557,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -2588,22 +2588,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2614,22 +2614,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2640,22 +2640,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2666,22 +2666,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2692,22 +2692,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -2723,22 +2723,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2749,22 +2749,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2775,22 +2775,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2801,22 +2801,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2827,22 +2827,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -2858,22 +2858,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2884,22 +2884,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2910,22 +2910,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2936,22 +2936,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -2962,22 +2962,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -2993,22 +2993,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3019,22 +3019,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3045,22 +3045,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3071,22 +3071,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3097,22 +3097,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -3128,22 +3128,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3154,22 +3154,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3180,22 +3180,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3206,22 +3206,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3232,22 +3232,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -3263,22 +3263,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3289,22 +3289,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3315,22 +3315,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3341,22 +3341,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3367,22 +3367,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -3398,22 +3398,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3424,22 +3424,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3450,22 +3450,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3476,22 +3476,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3502,22 +3502,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -3533,22 +3533,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3559,22 +3559,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3585,22 +3585,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3611,22 +3611,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3637,22 +3637,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -3673,22 +3673,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3699,22 +3699,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3725,22 +3725,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3751,22 +3751,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3777,22 +3777,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -3808,22 +3808,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3834,22 +3834,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3860,22 +3860,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3886,22 +3886,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3912,22 +3912,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -3943,22 +3943,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3969,22 +3969,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -3995,22 +3995,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4021,22 +4021,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4047,22 +4047,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -4078,22 +4078,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4104,22 +4104,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4130,22 +4130,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4156,22 +4156,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4182,22 +4182,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -4213,22 +4213,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4239,22 +4239,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4265,22 +4265,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4291,22 +4291,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4317,22 +4317,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -4348,22 +4348,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4374,22 +4374,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4400,22 +4400,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4426,22 +4426,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4452,22 +4452,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -4488,22 +4488,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4514,22 +4514,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4540,22 +4540,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4566,22 +4566,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4592,22 +4592,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -4623,22 +4623,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4649,22 +4649,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4675,22 +4675,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4701,22 +4701,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4727,22 +4727,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -4758,22 +4758,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4784,22 +4784,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4810,22 +4810,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4836,22 +4836,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4862,22 +4862,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -4893,22 +4893,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4919,22 +4919,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4945,22 +4945,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4971,22 +4971,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -4997,22 +4997,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -5028,22 +5028,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5054,22 +5054,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5080,22 +5080,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5106,22 +5106,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5132,22 +5132,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -5163,22 +5163,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5189,22 +5189,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5215,22 +5215,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5241,22 +5241,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5267,22 +5267,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -5298,22 +5298,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5324,22 +5324,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5350,22 +5350,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5376,22 +5376,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5402,22 +5402,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -5433,22 +5433,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5459,22 +5459,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5485,22 +5485,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5511,22 +5511,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5537,22 +5537,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -5568,22 +5568,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5594,22 +5594,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5620,22 +5620,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5646,22 +5646,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5672,22 +5672,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -5703,22 +5703,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5729,22 +5729,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5755,22 +5755,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5781,22 +5781,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5807,22 +5807,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -5838,22 +5838,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5864,22 +5864,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5890,22 +5890,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5916,22 +5916,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5942,22 +5942,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -5973,22 +5973,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -5999,22 +5999,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -6025,22 +6025,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -6051,22 +6051,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -6077,22 +6077,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
@@ -6108,22 +6108,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -6134,22 +6134,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -6160,22 +6160,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -6186,22 +6186,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "A",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           },
@@ -6212,22 +6212,22 @@ window.customMenus = [
                 "label": "Cecilia Perez",
                 "filter": "B",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Mitzi Rollins",
                 "filter": "C",
                 "incumbent": "TRUE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               },
               {
                 "label": "Roland Frank",
                 "filter": "D",
                 "incumbent": "FALSE",
-                "primary url": "https://duckduckgo.com",
-                "secondary url": "https://duckduckgo.com"
+                "primary_url": "https://duckduckgo.com",
+                "secondary_url": "https://duckduckgo.com"
               }
             ]
           }
