@@ -25,7 +25,7 @@ window.customMenus = [
                 "label": "Jared F. Golden",
                 "filter": "BDI",
                 "incumbent": "TRUE",
-                "primary_url": "https://golden.house.gov",
+                "primary_url": "https://bluedoghub.org/jared-golden",
                 "secondary_url": "https://jaredgoldenforcongress.com"
               }
             ]
@@ -4503,7 +4503,7 @@ window.customMenus = [
                 "label": "Adam Gray",
                 "filter": "BDI",
                 "incumbent": "TRUE",
-                "primary_url": "https://gray.house.gov",
+                "primary_url": "https://bluedoghub.org/adam-gray",
                 "secondary_url": "https://www.adamgrayforcongress.com"
               }
             ]
@@ -5299,7 +5299,7 @@ window.customMenus = [
                 "label": "Marie Gluesenkamp Perez",
                 "filter": "BDI",
                 "incumbent": "TRUE",
-                "primary_url": "https://gluesenkampperez.house.gov",
+                "primary_url": "https://bluedoghub.org/marie-gluesenkamp-perez",
                 "secondary_url": "https://marieforcongress.com"
               }
             ]
